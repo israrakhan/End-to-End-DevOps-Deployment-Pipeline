@@ -885,7 +885,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Original React app repository: [riyanuddin17/DevOps-Challenge](https://github.com/riyanuddin17/DevOps-Challenge)
+- Original React app repository: https://github.com/israrakhan/DevOps-Challenge.git
 - RoadsideCoder YouTube Channel for i18n tutorial
 - AWS for cloud infrastructure
 - Open-source community for amazing tools
